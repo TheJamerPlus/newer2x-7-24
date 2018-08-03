@@ -1,0 +1,16 @@
+{
+  "name": "newer2x",
+  "version": "0.0.1",
+  "description": "//yardım",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Ramazan Karahüyük",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "moment": "^2.22.2"
+  }
+}
